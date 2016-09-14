@@ -201,7 +201,9 @@ img {
   font-size: 42px;
   font-variant: small-caps;
   letter-spacing: 1px;
-  float:left;
+  position: absolute;
+  left: 8px;
+  bottom: 8px;
   
 }
 
@@ -209,7 +211,9 @@ img {
   margin: 0 0 0 0;
   color: $gray;
   font-size: 18px;
-  float:left;
+  position: absolute;
+  left: 176px;
+  bottom: 8px;
   
   @include mobile {
     margin: 0 0;
