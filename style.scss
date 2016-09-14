@@ -200,6 +200,8 @@ img {
   font-size: 42px;
   font-variant: small-caps;
   letter-spacing: 1px;
+  position: absolute;
+  bottom: auto;
 }
 
 .site-description {
@@ -207,6 +209,9 @@ img {
   color: $gray;
   font-size: 18px;
   float:left;
+  position: absolute;
+  bottom: auto;
+  vertical-allign
 
   @include mobile {
     margin: 0 0;
