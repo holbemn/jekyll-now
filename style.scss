@@ -181,7 +181,7 @@ img {
 }
 
 .site-info {
-  margin-bottom: 2em;
+  margin-bottom: 0;
   display: inline-block;
   
   @include mobile {
@@ -201,8 +201,7 @@ img {
   font-size: 42px;
   font-variant: small-caps;
   letter-spacing: 1px;
-  height: 100px;
-  float:left;
+  display: block;
   
   
 }
@@ -211,8 +210,7 @@ img {
   margin: 0 0 0 0;
   color: $gray;
   font-size: 18px;
-  height: 100px;
-  float:left;
+  display: block;
 
   
   @include mobile {
