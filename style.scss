@@ -210,9 +210,8 @@ img {
   margin: 0 0 0 0;
   color: $gray;
   font-size: 18px;
-  position: relative;
-  top: 100%;
-
+  float:left;
+  
   @include mobile {
     margin: 0 0;
   }
