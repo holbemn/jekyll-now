@@ -183,7 +183,6 @@ img {
 .site-info {
   float:left;
   margin-bottom: 2em;
-  vertical-align: baseline;
 
   @include mobile {
     float: none;
@@ -202,7 +201,6 @@ img {
   font-size: 42px;
   font-variant: small-caps;
   letter-spacing: 1px;
-  vertical-align: baseline;
   
 }
 
@@ -210,8 +208,6 @@ img {
   margin: 25px 0 0 10px;
   color: $gray;
   font-size: 18px;
-  float:left;
-  vertical-align: baseline;
   
   @include mobile {
     margin: 0 0;
