@@ -200,7 +200,7 @@ img {
   font-size: 42px;
   font-variant: small-caps;
   letter-spacing: 1px;
-  bottom: 30px;
+  vertical-align: baseline;
   
 }
 
@@ -209,8 +209,8 @@ img {
   color: $gray;
   font-size: 18px;
   float:left;
-  bottom: 30px;
-
+  vertical-align: baseline;
+  
   @include mobile {
     margin: 0 0;
   }
