@@ -183,11 +183,12 @@ img {
 .site-info {
   margin-bottom: 2em;
   display: inline-block;
-
+  
   @include mobile {
     float: none;
     display: block;
     margin: 0 auto;
+    
   }
 }
 
@@ -200,7 +201,8 @@ img {
   font-size: 42px;
   font-variant: small-caps;
   letter-spacing: 1px;
-  vertical-align:bottom;
+  position: relative;
+  top: 100%;
   
 }
 
@@ -208,8 +210,9 @@ img {
   margin: 0 0 0 0;
   color: $gray;
   font-size: 18px;
-  vertical-align:bottom;
-  
+  position: relative;
+  top: 100%;
+
   @include mobile {
     margin: 0 0;
   }
