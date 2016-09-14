@@ -194,6 +194,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
+  float:left;
   font-family: "adobe-garamond-pro-1","adobe-garamond-pro-2", "Times New Roman", serif;
   font-weight: 500;
   font-size: 36px;
@@ -204,12 +205,11 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-  float: left;
   font-size: 16px;
+  float:left;
 
   @include mobile {
     margin: 0 0;
-    float: left;
   }
 }
 
