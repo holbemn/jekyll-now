@@ -201,6 +201,7 @@ img {
   font-size: 42px;
   font-variant: small-caps;
   letter-spacing: 1px;
+  height: 100px;
   
   
 }
@@ -209,6 +210,7 @@ img {
   margin: 0 0 0 0;
   color: $gray;
   font-size: 18px;
+  height: 100px;
 
   
   @include mobile {
