@@ -181,7 +181,8 @@ img {
 }
 
 .site-info {
-  float: left;
+  float:left;
+  vertical-align: baseline;
 
   @include mobile {
     float: none;
