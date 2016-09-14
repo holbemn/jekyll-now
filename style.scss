@@ -183,6 +183,7 @@ img {
 .site-info {
   float:left;
   margin-bottom: 2em;
+  display: inline-block;
 
   @include mobile {
     float: none;
@@ -195,19 +196,20 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  float:left;
   font-family: "adobe-garamond-pro-1","adobe-garamond-pro-2", "Times New Roman", serif;
   font-weight: 500;
   font-size: 42px;
   font-variant: small-caps;
   letter-spacing: 1px;
+  vertical-align:bottom;
   
 }
 
 .site-description {
-  margin: 25px 0 0 10px;
+  margin: 0 0 0 0;
   color: $gray;
   font-size: 18px;
+  vertical-align:bottom;
   
   @include mobile {
     margin: 0 0;
