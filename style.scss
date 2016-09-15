@@ -205,8 +205,9 @@ img {
   letter-spacing: 1px;
   background: #eee;
   height: 100px;
-  width: 150px;
+  width: 170px;
   display: inline-block;
+  vertical-align: baseline;
   
   
 }
@@ -219,6 +220,7 @@ img {
   height: 100px;
   width: 200px;
   display: inline-block;
+  vertical-align: baseline;
 
   
   @include mobile {
