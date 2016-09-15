@@ -204,6 +204,8 @@ img {
   font-variant: small-caps;
   letter-spacing: 1px;
   background: #eee;
+  height: 100px;
+  width: 100px;
   
   
 }
@@ -213,6 +215,8 @@ img {
   color: $gray;
   font-size: 18px;
   background: #BEFFBE;
+  height: 100px;
+  width: 200px;
 
   
   @include mobile {
