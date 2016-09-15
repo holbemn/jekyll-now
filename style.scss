@@ -225,7 +225,7 @@ ul.share-buttons .sr-only {
 }
 
 .site-name {
-  margin: 0 0 0 0;
+  margin: 0 0 -15 0;
   color: $darkGray;
   cursor: pointer;
   font-family: "adobe-garamond-pro-1","adobe-garamond-pro-2", "Times New Roman", serif;
@@ -237,9 +237,6 @@ ul.share-buttons .sr-only {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  p { 
-  	margin: -15 0;
-  }
 }
 
 .site-description {
