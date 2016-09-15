@@ -207,7 +207,7 @@ img {
   height: 100px;
   width: 170px;
   display: inline-block;
-  vertical-align: baseline;
+  vertical-align: text-bottom;
   
   
 }
@@ -220,7 +220,7 @@ img {
   height: 100px;
   width: 200px;
   display: inline-block;
-  vertical-align: baseline;
+  vertical-align: text-bottom;
 
   
   @include mobile {
