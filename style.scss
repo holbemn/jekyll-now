@@ -257,7 +257,7 @@ ul.share-buttons .sr-only {
 }
 
 nav {
-  float: right;
+  display: inline-block;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: "adobe-garamond-pro-1","adobe-garamond-pro-2", "Times New Roman", serif;
   font-size: 18px;
