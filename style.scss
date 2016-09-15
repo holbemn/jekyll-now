@@ -263,6 +263,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: "adobe-garamond-pro-1","adobe-garamond-pro-2", "Times New Roman", serif;
   font-size: 18px;
+  vertical-align: text-bottom;
 
   @include mobile {
     float: none;
