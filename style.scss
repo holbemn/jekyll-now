@@ -209,12 +209,14 @@ ul.share-buttons .sr-only {
 }
 
 .site-info {
-  width: 800px;
+  width: 100%;
+  max-width: 660;
   height: 100px;
   margin-bottom: 0;
   display: inline-block;
   
   @include mobile {
+    width: 100%;
     float: none;
     display: block;
     margin: 0 auto;
