@@ -236,8 +236,8 @@ ul.share-buttons .sr-only {
   height: 100px;
   width: 170px;
   position: absolute;
-  left: 0px;
-  bottom: 0px;
+  left:0px;
+  bottom:0px;
   
   
 }
@@ -249,8 +249,8 @@ ul.share-buttons .sr-only {
   height: 100px;
   width: 200px;
   position: absolute;
-  left: 50%
-  bottom: 0px;
+  left:50%
+  bottom:0px;
 
   
   @include mobile {
@@ -263,8 +263,8 @@ nav {
   font-family: "adobe-garamond-pro-1","adobe-garamond-pro-2", "Times New Roman", serif;
   font-size: 18px;
   position: absolute;
-  right: 0px;
-  bottom: 0px;
+  right:0px;
+  bottom:0px;
 
   @include mobile {
     float: none;
