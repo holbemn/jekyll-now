@@ -213,7 +213,7 @@ ul.share-buttons .sr-only {
   max-width: 660;
   height: 100px;
   margin-bottom: 0;
-  display: inline-block;
+  position: relative;
   
   @include mobile {
     width: 100%;
@@ -235,22 +235,22 @@ ul.share-buttons .sr-only {
   letter-spacing: 1px;
   height: 100px;
   width: 170px;
-  display: inline-block;
-  vertical-align: text-bottom;
-  line-height: 158px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
   
   
 }
 
 .site-description {
-  margin: 0 0 0 0;
+  margin: 0 0 0 -50px;
   color: $gray;
   font-size: 18px;
   height: 100px;
   width: 200px;
-  display: inline-block;
-  vertical-align: text-bottom;
-  line-height: 174px;
+  position: absolute;
+  left: 50%
+  bottom: 0px;
 
   
   @include mobile {
@@ -260,10 +260,11 @@ ul.share-buttons .sr-only {
 
 nav {
   display: inline-block;
-  margin-top: 23px; // @TODO: Vertically middle align
   font-family: "adobe-garamond-pro-1","adobe-garamond-pro-2", "Times New Roman", serif;
   font-size: 18px;
-  vertical-align: text-bottom;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
 
   @include mobile {
     float: none;
