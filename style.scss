@@ -184,7 +184,7 @@ img {
   width: 800px;
   height: 100px;
   margin-bottom: 0;
-  display: inline-block;
+  display:inline-block;
   
   @include mobile {
     float: none;
