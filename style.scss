@@ -191,23 +191,6 @@ ul.share-buttons .sr-only {
   }
 }
 
-.site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-  img {
-    border-radius: 5px;
-  }
-}
-
 .site-info {
   width: 100%;
   max-width: 660;
@@ -220,7 +203,6 @@ ul.share-buttons .sr-only {
     float: none;
     display: block;
     margin: 0 auto;
-    
   }
 }
 
@@ -240,7 +222,7 @@ ul.share-buttons .sr-only {
 }
 
 .site-description {
-  margin: 0 0 0 1em;
+  margin: 0 0 0 .75em;
   color: $gray;
   font-size: 112.5%;
   width: 200px;
