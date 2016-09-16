@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Who's This Holbemn?
+title: What's a Holbemn?
 ---
 
 Welcome to Holbemn! 
