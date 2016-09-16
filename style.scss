@@ -301,10 +301,17 @@ nav {
 }
 
 .wrapper-footer {
+  max-width: 660px;
   margin-top: 50px;
   border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $white;
+   
+    @include mobile {
+    width: 100%;
+    float: none;
+    display: block;
+    margin: 0 auto;
+    }
 }
 
 footer {
