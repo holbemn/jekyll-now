@@ -179,9 +179,9 @@ ul.share-buttons .sr-only {
 }
 
 .masthead {
+  max-width: 660;
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  display: inline-flex;
   }
 
 .site-info {
@@ -207,7 +207,6 @@ ul.share-buttons .sr-only {
   a {
     margin-left: 0;
   }
-
 }
 
 .site-description {
