@@ -192,7 +192,7 @@ ul.share-buttons .sr-only {
   max-width: 660;
   height: 100px;
   margin-bottom: 0;
-  display: inline-flex;;
+  display: inline-flex;
   align-items: baseline;
   }
 
@@ -223,8 +223,9 @@ ul.share-buttons .sr-only {
 
 nav {
   font-family: "Times New Roman", serif;
-  font-size: 18px;
+  font-size: 100%;
   margin-left: auto;
+  text-transform: uppercase;
 
   @include mobile {
     float: none;
