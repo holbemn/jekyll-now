@@ -194,6 +194,7 @@ ul.share-buttons .sr-only {
   margin-bottom: 0;
   display: inline-flex;
   align-items: baseline;
+  flex-wrap: wrap;
   }
 
 .site-name {
@@ -209,11 +210,13 @@ ul.share-buttons .sr-only {
 }
 
 .site-description {
-  margin: 0 0 0 .75em;
+  margin-left: .5em;
   font-family: "Times New Roman", serif;
   color: $gray;
   font-size: 112.5%;
-  width: 200px;
+  overflow:hidden;
+  white-space:nowrap;
+
 
 
   @include mobile {
@@ -236,7 +239,7 @@ nav {
 
 
   a {
-    margin-left: 20px;
+    margin-left: .5em;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
