@@ -181,9 +181,6 @@ ul.share-buttons .sr-only {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-
-  @include mobile {
-    text-align: left;
   }
 }
 
@@ -198,7 +195,7 @@ ul.share-buttons .sr-only {
   }
 
 .site-name {
-  margin: 0 0 -10px 0;
+  margin: 0 0 -10px -.5em;
   color: $darkGray;
   cursor: pointer;
   font-family: "Times New Roman", serif;
@@ -215,9 +212,6 @@ ul.share-buttons .sr-only {
   color: $gray;
   font-size: 112.5%;
   overflow:hidden;
-  white-space:pre;
-
-
 
   @include mobile {
     margin: 0 0;
@@ -229,12 +223,6 @@ nav {
   font-size: 100%;
   margin-left: auto;
   text-transform: uppercase;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
   }
 
 
@@ -249,7 +237,6 @@ nav {
       margin: 0 10px;
     }
   }
-}
 
 //
 // .main
@@ -310,7 +297,32 @@ footer {
 @import "svg-icons";
 
 @media screen and (max-width: 660px) {
-  body {
-    background: #f4f5f6;
+
+}
+
+/* Medium screens */
+@media all and (max-width: 660px) {
+  nav {
+    /* When on medium sized screens, we center it by evenly distributing empty space around items */
+    justify-content: space-around;
+  }
+  .site-name {
+    flex-shrink: .8;
+  }
+
+  .site-description {
+    flex-shrink: .8;
+
+  .site-info {
+    justify-content: center;
+  }
+  }
+}
+
+/* Small screens */
+@media all and (max-width: 500px) {
+  nav {
+    /* On small screens, we are no longer using row direction but column */
+    flex-direction: column;
   }
 }
