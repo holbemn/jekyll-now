@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Who's This Holbemn?
+title: What's a Holbemn?
 ---
 
 Welcome to Holbemn! 
@@ -17,6 +17,6 @@ It is my responsibility that I must also offer a disclaimer that I will in no wa
 
 If you do happen to find yourself in the midst of a dark time due to struggles with substance abuse, interpersonal problems, depression, anxiety, or even if you simply need someone to talk to, I highly recommend that you seek out a counselor. We all have areas of our lives that we can improve, and I’ve found that obtaining impartial third party opinions through counseling is one of the most powerful tools out there for helping us to make those positive changes. Visit my resource page here <insert link> to browse online resources as well as databases of counselors in order to find one in your area. 
 
-Please stick around if you are intrigued by anything you’ve read here at Holbemn! There will be new writings here each week, concerning any number of topics in mental health. Also, be sure to add your email to the subscription box if you like what you’ve read and would like each new dispatch delivered to your inbox (no more than two per week, I promise!) Please reach out to me if you have any comments, constructive criticism, or something interesting to share! You can reach me at holbemn(at)gmail.com. Come back soon, and until then, have fun.
+Please stick around if you are intrigued by anything you’ve read here at Holbemn! There will be new writings here each week, concerning any number of topics in mental health. Also, be sure to add your email to the subscription box if you like what you’ve read and would like each new dispatch delivered to your inbox (no more than two per week, I promise!) Please reach out to me if you have any comments, constructive criticism, or something interesting to share! You can reach me at holbemn(at)holbemn.xyz. Come back soon, and until then, have fun.
 
 Holbemn
