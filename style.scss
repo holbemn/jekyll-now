@@ -195,7 +195,7 @@ ul.share-buttons .sr-only {
   }
 
 .site-name {
-  margin: 0 0 -10px -.5em;
+  margin: 0 0 -10px 0;
   color: $darkGray;
   cursor: pointer;
   font-family: "Times New Roman", serif;
@@ -203,6 +203,11 @@ ul.share-buttons .sr-only {
   font-size: 2.625em;
   font-variant: small-caps;
   letter-spacing: 1px;
+
+  a {
+    margin-left: 0;
+  }
+
 }
 
 .site-description {
