@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Times New Roman", serif;
   color: $darkerGray;
   font-weight: bold;
 
@@ -192,33 +192,28 @@ ul.share-buttons .sr-only {
   max-width: 660;
   height: 100px;
   margin-bottom: 0;
-  display: inline-block;
-  position: relative;
+  display: inline-flex;;
+  align-items: baseline;
   }
 
 .site-name {
   margin: 0 0 -10px 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Times New Roman", serif;
   font-weight: 500;
   font-size: 42px;
   font-variant: small-caps;
   letter-spacing: 1px;
   width: 160px;
-  position: absolute;
-  left: 0px;
-  bottom: 0px;
 }
 
 .site-description {
   margin: 0 0 0 .75em;
+  font-family: "Times New Roman", serif;
   color: $gray;
   font-size: 112.5%;
   width: 200px;
-  position: absolute;
-  left: 160px;
-  bottom: 0px;
 
 
   @include mobile {
@@ -227,12 +222,9 @@ ul.share-buttons .sr-only {
 }
 
 nav {
-  display: inline-block;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Times New Roman", serif;
   font-size: 18px;
-  position: absolute;
-  right: 0px;
-  bottom: 0px;
+  margin-left: auto;
 
   @include mobile {
     float: none;
@@ -240,6 +232,7 @@ nav {
     display: block;
     font-size: 16px;
   }
+
 
   a {
     margin-left: 20px;
@@ -250,7 +243,6 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
     }
   }
 }
