@@ -182,6 +182,7 @@ ul.share-buttons .sr-only {
   max-width: 660;
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+  height:auto;
   }
 
 .site-info {
@@ -191,8 +192,9 @@ ul.share-buttons .sr-only {
   margin-bottom: 0;
   display: inline-flex;
   align-items: baseline;
-  flex-wrap: wrap;
-  }
+  flex-direction: row;
+  justify-content: flex-start;
+}
 
 .site-name {
   margin: 0 0 -10px 0;
@@ -216,10 +218,15 @@ ul.share-buttons .sr-only {
   font-size: 112.5%;
   }
 
+.navigation {
+  display: inline-flex;
+  flex-shrink: .8;
+  margin-left: auto;
+}
+
 nav {
   font-family: "Times New Roman", serif;
   font-size: 100%;
-  margin-left: auto;
   text-transform: uppercase;
   }
 
@@ -301,24 +308,31 @@ footer {
 /* Medium screens */
 @media all and (max-width: 660px) {
   nav {
+    margin-left: 0
     /* When on medium sized screens, we center it by evenly distributing empty space around items */
-    justify-content: space-around;
   }
   .site-name {
-    flex-shrink: .8;
   }
 
   .site-description {
-    flex-shrink: .8;
+  }
 
   .site-info {
-    justify-content: center;
-  }
+    justify-content: flex-start;
   }
 }
 
 /* Small screens */
+@media all and (max-width: 400px) {
+  .site-info{
+    justify-content: left;
+  }
   nav {
+    flex-shrink: .8;
+    margin-left: 0;
     /* On small screens, we are no longer using row direction but column */
+  }
+    .site-name {
+      flex-shrink: .8;
   }
 }
