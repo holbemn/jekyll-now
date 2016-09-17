@@ -180,6 +180,8 @@ ul.share-buttons .sr-only {
 
 .masthead {
   padding: 20px 0;
+  border-bottom: 1px solid $lightGray;
+  display: inline-flex;
   }
 
 .site-info {
@@ -190,7 +192,6 @@ ul.share-buttons .sr-only {
   display: inline-flex;
   align-items: baseline;
   flex-wrap: wrap;
-  border-bottom: 1px solid $lightGray;
   }
 
 .site-name {
