@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 16px/1.5 "adobe-garamond-pro-1","adobe-garamond-pro-2", "Times New Roman", serif;
+  font: 16px/1.5 Georgia, "Times New Roman", serif;
   color: $darkGray;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "adobe-garamond-pro-1","adobe-garamond-pro-2", "Times New Roman", serif;
+  font-family: Georgia, "Times New Roman", serif;
   color: $darkerGray;
   font-weight: bold;
 
@@ -214,13 +214,13 @@ ul.share-buttons .sr-only {
   height: 100px;
   margin-bottom: 0;
   display: inline-block;
-  
+
   @include mobile {
     width: 100%;
     float: none;
     display: block;
     margin: 0 auto;
-    
+
   }
 }
 
@@ -238,8 +238,8 @@ ul.share-buttons .sr-only {
   display: inline-block;
   vertical-align: text-bottom;
   line-height: 158px;
-  
-  
+
+
 }
 
 .site-description {
@@ -252,7 +252,7 @@ ul.share-buttons .sr-only {
   vertical-align: text-bottom;
   line-height: 174px;
 
-  
+
   @include mobile {
     margin: 0 0;
   }
@@ -335,3 +335,9 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+@media screen and (max-width: 660px) {
+  body {
+    background: #f4f5f6;
+  }
+}
