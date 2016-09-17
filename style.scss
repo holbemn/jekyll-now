@@ -180,9 +180,7 @@ ul.share-buttons .sr-only {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
   }
-}
 
 .site-info {
   width: 100%;
@@ -192,6 +190,7 @@ ul.share-buttons .sr-only {
   display: inline-flex;
   align-items: baseline;
   flex-wrap: wrap;
+  border-bottom: 1px solid $lightGray;
   }
 
 .site-name {
@@ -207,16 +206,11 @@ ul.share-buttons .sr-only {
 }
 
 .site-description {
-  margin-left: .5em;
   font-family: "Times New Roman", serif;
   color: $gray;
   font-size: 112.5%;
-  overflow:hidden;
-
-  @include mobile {
-    margin: 0 0;
+  overflow: auto;
   }
-}
 
 nav {
   font-family: "Times New Roman", serif;
