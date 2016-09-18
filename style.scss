@@ -196,7 +196,7 @@ ul.share-buttons .sr-only {
 }
 
 .masthead {
-  padding: 0 0 20px 0;
+  padding: 20px 0 20px 0;
   }
 
 .site-info {
@@ -207,7 +207,7 @@ ul.share-buttons .sr-only {
   flex-wrap: wrap;
   align-items:baseline;
   flex-grow: 1;
-  margin-right: .5em;
+  word-spacing: .5rem;
   p {
     margin-top: 0;
     margin-bottom: 0;
@@ -224,6 +224,10 @@ ul.share-buttons .sr-only {
   font-variant: small-caps;
   letter-spacing: 1px;
 
+  p {
+    margin: 0 0 0 0;
+  }
+
   a {
     margin-left: 0;
     margin-right: .5rem;
@@ -231,10 +235,10 @@ ul.share-buttons .sr-only {
 }
 
 .site-description {
-  margin-right: 2rem;
   font-family: "Times New Roman", serif;
   color: $gray;
   font-size: 112.5%;
+  word-spacing: -.05em;
   }
 
 .navigation {
@@ -310,14 +314,20 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-@media screen and (max-width: 660px) {
-
+/* Medium screens */
+@media all and (max-width: 762px) {
+  .site-info {
+    justify-content: center;
+    }
+  .navigation {
+    margin-left: auto;
+    margin-right: auto;
+    }
 }
 
-/* Medium screens */
-@media all and (max-width: 660px) {
-  nav {
-
+@media all and (max-width: 700px) {
+  .site-description {
+    margin-right: 0;
   }
 }
 
