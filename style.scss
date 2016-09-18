@@ -26,7 +26,7 @@ body {
 .main {
   margin: 0 auto;
   max-width: 660px;
-  width: 100%;
+  width: 80%;
   border-top: 1px solid $lightGray;
   border-bottom: 1px solid $lightGray;
 }
@@ -35,7 +35,7 @@ body {
   margin: 0 auto;
   max-width: 660px;
   padding: 0 20px;
-  width: 100%;
+  width: 80%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -130,7 +130,8 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  width: 90%;
+  max-width: 660px;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -154,9 +155,14 @@ img {
 }
 
 ul.share-buttons{
-  margin-top: 30px;
+  margin: 40px 0 30px 0;
   list-style: none;
   padding: 0 0 0 0;
+
+  img {
+    width: auto;
+    max-width: auto;
+  }
 }
 
 ul.share-buttons li{
@@ -183,7 +189,6 @@ ul.share-buttons .sr-only {
 //
 
 .wrapper-masthead {
-  margin-bottom: 25px;
 
   .container {
     padding: 0 0;
@@ -191,20 +196,26 @@ ul.share-buttons .sr-only {
 }
 
 .masthead {
-  max-width: 660;
-  padding: 20px 0;
+  padding: 0 0 20px 0;
   }
 
 .site-info {
   width: 100%;
-  max-width: 660;
-  height: 50px;
-  display: flex;
+  max-width: 660px;
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
   align-items:baseline;
+  flex-grow: 1;
+  margin-right: .5em;
+  p {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+  }
 }
 
 .site-name {
-  margin: 0 0 -10px 0;
   color: $darkGray;
   cursor: pointer;
   font-family: "Times New Roman", serif;
@@ -215,11 +226,12 @@ ul.share-buttons .sr-only {
 
   a {
     margin-left: 0;
+    margin-right: .5em;
   }
 }
 
 .site-description {
-  margin-left: .5em;
+  margin-right: .5em;
   font-family: "Times New Roman", serif;
   color: $gray;
   font-size: 112.5%;
@@ -227,17 +239,19 @@ ul.share-buttons .sr-only {
 
 .navigation {
   margin-left: auto;
+  display: inline-flex;
+  justify-content:center;
+  min-width: 244px;
 }
 
 nav {
   font-family: "Times New Roman", serif;
   font-size: 100%;
   text-transform: uppercase;
+  word-spacing: .5em;
 
   a {
-    margin-left: .5em;
     color: $darkGray;
-    text-align: right;
     font-weight: 300;
     letter-spacing: 0px;
     }
@@ -278,8 +292,7 @@ nav {
 }
 
 .wrapper-footer {
-  max-width: 660px;
-  margin: 50px auto;
+  margin: 0 auto;
   background-color: $white;
 
   .container {
