@@ -218,19 +218,21 @@ ul.share-buttons .sr-only {
 .site-name {
   color: $darkGray;
   cursor: pointer;
-  font-family: "Times New Roman", serif;
-  font-weight: 500;
-  font-size: 2.625em;
-  font-variant: small-caps;
-  letter-spacing: 1px;
 
   p {
     margin: 0 0 0 0;
+    line-height: 1;
   }
 
   a {
     margin-left: 0;
     margin-right: 0;
+    font-family: "Times New Roman", serif;
+    font-weight: 500;
+    font-size: 2.625em;
+    font-variant: small-caps;
+    letter-spacing: 1px;
+    line-height: 1;
   }
 }
 
@@ -246,6 +248,7 @@ ul.share-buttons .sr-only {
   display: inline-flex;
   justify-content:center;
   min-width: 244px;
+  margin-top: 1rem;
 }
 
 nav {
