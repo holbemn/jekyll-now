@@ -230,12 +230,13 @@ ul.share-buttons .sr-only {
 
   a {
     margin-left: 0;
-    margin-right: .5rem;
+    margin-right: 0;
   }
 }
 
 .site-description {
   font-family: "Times New Roman", serif;
+  margin-top: -10px;
   color: $gray;
   font-size: 112.5%;
   word-spacing: -.05em;
