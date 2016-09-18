@@ -23,6 +23,15 @@ body {
   color: $darkGray;
 }
 
+.main {
+  margin: 0 auto;
+  max-width: 660px;
+  padding: 0 20px;
+  width: 100%;
+  border-top: 1px solid $lightGray;
+  border-bottom: 1px solid $lightGray;
+}
+
 .container {
   margin: 0 auto;
   max-width: 660px;
@@ -181,19 +190,14 @@ ul.share-buttons .sr-only {
 .masthead {
   max-width: 660;
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
-  height:auto;
   }
 
 .site-info {
   width: 100%;
   max-width: 660;
   height: 50px;
-  margin-bottom: 0;
-  display: inline-flex;
-  align-items: baseline;
-  flex-direction: row;
-  justify-content: flex-start;
+  display: flex;
+  align-items:baseline;
 }
 
 .site-name {
@@ -219,8 +223,6 @@ ul.share-buttons .sr-only {
   }
 
 .navigation {
-  display: inline-flex;
-  flex-shrink: .8;
   margin-left: auto;
 }
 
@@ -228,8 +230,6 @@ nav {
   font-family: "Times New Roman", serif;
   font-size: 100%;
   text-transform: uppercase;
-  }
-
 
   a {
     margin-left: .5em;
@@ -237,11 +237,8 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 0px;
-
-    @include mobile {
-      margin: 0 10px;
     }
-  }
+}
 
 //
 // .main
@@ -280,7 +277,6 @@ nav {
 .wrapper-footer {
   max-width: 660px;
   margin: 50px auto;
-  border-top: 1px solid #ddd;
   background-color: $white;
 
     @include mobile {
@@ -308,31 +304,11 @@ footer {
 /* Medium screens */
 @media all and (max-width: 660px) {
   nav {
-    margin-left: 0
-    /* When on medium sized screens, we center it by evenly distributing empty space around items */
-  }
-  .site-name {
-  }
 
-  .site-description {
-  }
-
-  .site-info {
-    justify-content: flex-start;
   }
 }
 
 /* Small screens */
 @media all and (max-width: 400px) {
-  .site-info{
-    justify-content: left;
-  }
-  nav {
-    flex-shrink: .8;
-    margin-left: 0;
-    /* On small screens, we are no longer using row direction but column */
-  }
-    .site-name {
-      flex-shrink: .8;
-  }
+
 }
