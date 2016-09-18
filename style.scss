@@ -26,7 +26,6 @@ body {
 .main {
   margin: 0 auto;
   max-width: 660px;
-  padding: 0 20px;
   width: 100%;
   border-top: 1px solid $lightGray;
   border-bottom: 1px solid $lightGray;
@@ -185,6 +184,10 @@ ul.share-buttons .sr-only {
 
 .wrapper-masthead {
   margin-bottom: 25px;
+
+  .container {
+    padding: 0 0;
+  }
 }
 
 .masthead {
@@ -279,12 +282,9 @@ nav {
   margin: 50px auto;
   background-color: $white;
 
-    @include mobile {
-    width: 100%;
-    float: none;
-    display: block;
-    margin: 0 auto;
-    }
+  .container {
+    padding: 0 0;
+  }
 }
 
 footer {
