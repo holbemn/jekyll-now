@@ -195,7 +195,7 @@ ul.share-buttons .sr-only {
 }
 
 .masthead {
-  padding: 20px 0 20px 0;
+  padding: 15px 0 15px 0;
   word-spacing: .5rem;
   }
 
@@ -208,6 +208,9 @@ ul.share-buttons .sr-only {
   align-items:baseline;
   flex-grow: 1;
   word-spacing: .5rem;
+  div {
+    line-height:normal;
+  }
 }
 
 .site-name {
@@ -236,7 +239,7 @@ ul.share-buttons .sr-only {
   color: $gray;
   font-size: 112.5%;
   word-spacing: -.05em;
-  margin: -18px .5rem 0 .5rem;
+  margin: -15px .5rem 0 .5rem;
 }
 
 .navigation {
