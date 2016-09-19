@@ -236,13 +236,7 @@ ul.share-buttons .sr-only {
   color: $gray;
   font-size: 112.5%;
   word-spacing: -.05em;
-  margin: 0 .5rem 0 .5rem;
-
-  .site-info {
-    p {
-      margin: 0 .5rem;
-    }
-  }
+  margin: -20px .5rem 0 .5rem;
 }
 
 .navigation {
@@ -250,7 +244,7 @@ ul.share-buttons .sr-only {
   display: inline-flex;
   justify-content:center;
   min-width: 244px;
-  margin-top: 1rem;
+  margin-top: 20px;
 }
 
 nav {
