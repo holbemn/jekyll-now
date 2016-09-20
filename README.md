@@ -118,3 +118,11 @@ Issues and Pull Requests are greatly appreciated. If you've never contributed to
 You can start by [opening an issue](https://github.com/barryclark/jekyll-now/issues/new) describing the problem that you're looking to resolve and we'll go from there.
 
 I want to keep Jekyll Now as minimal as possible. Every line of code should be one that's useful to 90% of the people using it. Please bear that in mind when submitting feature requests. If it's not something that most people will use, it probably won't get merged. :guardsman:
+
+Post creation troubleshooting: 
+
+ - The post is not placed in the _posts directory.
+ - The post has incorrect title. Posts should be named YEAR-MONTH-DAY-title.MARKUP
+ - The post's date is in the future. You can make the post visible by setting future:true in _config.yml
+ - The post has published: false in its front matter. Set it to true.
+ - The title contains a : character. Replace it with &#58.
