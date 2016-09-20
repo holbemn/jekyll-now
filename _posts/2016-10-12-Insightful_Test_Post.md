@@ -3,7 +3,7 @@ layout: post
 title: Insightful Test Post
 ---
 
-This test post is insightful and thought-provoking like nobody has ever seen before. The narrative is compelling, and one has no choice but to alter their beliefs after having read it. Truly, it is a landmark post that will set the bar for all posts who follow in its wake. 
+This test post is insightful and thought-provoking like nobody has ever seen before. The narrative is compelling, and one has no choice but to alter their beliefs after having read it. Truly, it is a landmark post that will set the bar for all posts who follow in its wake.
 
 I’d like to begin by saying, I’m glad you’re here! If you’re anything like me, you find that the world of mental health with its various overlapping disciplines and theories can be mysterious and frankly, highly confusing. As a graduate student in Clinical Mental Health Counseling, I often find myself asking questions like, “How is psychoanalysis different than psychotherapy,” “What is the difference between a psychologist, psychiatrist, and a therapist,” and more confounding, human questions such as “Why do I continue habits that I know are bad for me?”
 
