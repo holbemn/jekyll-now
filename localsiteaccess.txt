@@ -1,3 +1,6 @@
+Change Directory:
+cd ~/holbemn.github.io
+
 Run:
 bundle exec jekyll serve -w
 
