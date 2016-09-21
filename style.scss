@@ -140,7 +140,8 @@ img {
 }
 
 .date {
-  font-style: italic;
+  font-style: normal;
+  font-size: 1em;
   color: $gray;
 }
 
@@ -268,7 +269,7 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
   border-bottom: 1px solid $lightGray;
 }
 
