@@ -295,6 +295,13 @@ nav a {
   letter-spacing: 0px;
 }
 
+.stacks {
+  margin: 0 3em;
+}
+.stacks .post {
+  display: inline-flex;
+}
+
 .posts > .post {
   padding-bottom: 1em;
   border-bottom: 1px solid #eee;

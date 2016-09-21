@@ -3,16 +3,19 @@ layout: archive
 title: Archive
 permalink: /archive/
 ---
+<div class="stacks">
+  <div class="posts">
+    {% for post in site.posts%}
 
-<div class="posts">
-  {% for post in site.posts%}
-    <article class="post">
-      <div class="container">
-        <div class="date">
-          {{ post.date | date: "%B %e, %Y" }}
-        </div>
-        <h1><a href="{{ site.baseurl }}{{post.url}}">{{ post.title}}</a></h1>
-      </div>
-    </article>
-  {% endfor %}
+
+      <article class="post">
+          <h1><a href="{{ site.baseurl }}{{post.url}}">{{ post.title}}</a></h1>
+
+          <div class="date">{{ post.date | date: "%B %e, %Y" }}
+          </div>
+
+      </article>
+
+    {% endfor %}
+  </div>
 </div>
