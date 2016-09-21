@@ -130,3 +130,5 @@ Post creation troubleshooting:
  Great explanation of the files here in the directory
 
  https://www.chenhuijing.com/blog/how-i-started-with-jekyll-and-github-pages/#👾
+
+ Use excerpt: in YAML front-matter + <p> text </p> in order to set custom excerpt to appear on indexed page.
