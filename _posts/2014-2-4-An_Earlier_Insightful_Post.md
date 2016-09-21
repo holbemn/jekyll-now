@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Insightful Test Post
+title: Earlier Insightful Test Post
+excerpt: <p>'Twas a dark and stormy night, and all through the port, the sounds of cheerful canaries plucking barnacles off of ships' hulls echoed.</p>
 ---
 
 This test post is insightful and thought-provoking like nobody has ever seen before. The narrative is compelling, and one has no choice but to alter their beliefs after having read it. Truly, it is a landmark post that will set the bar for all posts who follow in its wake.
