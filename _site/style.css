@@ -188,6 +188,7 @@ img {
   font-style: normal;
   font-size: 1em;
   color: #666;
+  line-height: normal;
 }
 
 ::-moz-selection {
