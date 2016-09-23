@@ -295,11 +295,29 @@ nav a {
   letter-spacing: 0px;
 }
 
-.stacks {
-  margin: 0 3em;
-}
 .stacks .post {
   display: inline-flex;
+  align-items: baseline;
+  border-bottom: none;
+  padding-bottom: 0;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.stacks .post h1 {
+  margin-right: .5rem;
+}
+.stacks .post .date {
+  font-size: .85em;
+  margin-top: -10px;
+}
+.stacks .posts > .post {
+  display: flex;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+.stacks .posts > .post:last-child {
+  padding-bottom: 1rem;
+  border-bottom: none;
 }
 
 .posts > .post {

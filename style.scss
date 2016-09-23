@@ -267,9 +267,31 @@ nav {
 // .main
 //
 .stacks {
-  margin: 0 3em;
+
   .post {
     display: inline-flex;
+    align-items: baseline;
+    border-bottom: none;
+    padding-bottom: 0;
+    flex-direction: row;
+    flex-wrap:wrap;
+    h1 {
+      margin-right: .5rem;
+    }
+    .date {
+      font-size: .85em;
+      margin-top: -10px;
+    }
+    }
+  .posts > .post {
+    display:flex;
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+
+  .posts > .post:last-child {
+    padding-bottom: 1rem;
+    border-bottom: none;
   }
 }
 
