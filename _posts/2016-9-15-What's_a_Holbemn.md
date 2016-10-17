@@ -1,11 +1,11 @@
 ---
 layout: post
-title: What's a Holbemn?
+title: Who's Holbemn?
 ---
 
 Welcome to Holbemn! For some of these questions (and an infinite amount of similarly complex others), there are no clear answers. But rather than turn away from the inherent muddiness of these age-old conundrums, here at Holbemn, we’re going to lean in and face them head-on.
 
-I’d like to begin by saying, I’m glad you’re here! If you’re anything like me, you find that the world of mental health with its various overlapping disciplines and theories can be mysterious and frankly, highly confusing. As a graduate student in Clinical Mental Health Counseling, I often find myself asking questions like, “How is psychoanalysis different than psychotherapy,” “What is the difference between a psychologist, psychiatrist, and a therapist,” and more confounding, human questions such as “Why do I continue habits that I know are bad for me?” 
+I’d like to begin by saying, I’m glad you’re here! If you’re anything like me, you find that the world of mental health with its various overlapping disciplines and theories can be mysterious and frankly, highly confusing. As a graduate student in Clinical Mental Health Counseling, I often find myself asking questions like, “How is psychoanalysis different than psychotherapy,” “What is the difference between a psychologist, psychiatrist, and a therapist,” and more confounding, human questions such as “Why do I continue habits that I know are bad for me?”
 
 For some of these questions (and an infinite amount of similarly complex others), there are no clear answers. But rather than turn away from the inherent muddiness of these age-old conundrums, here at Holbemn, we’re going to lean in and face them head-on. Check back here often for explorations of ideas both big and small in mental health as I progress through my training to become a therapist. I’ll be sharing weekly dispatches from therapy school on what our training is like, what it takes to be a counselor (emotionally, personally, & spiritually), and what the process of therapy is like as a therapist. Other times, I will share my favorite mental health resources, news articles, and on occasion, commentary/criticism of how issues in mental health are portrayed by the media.
 
