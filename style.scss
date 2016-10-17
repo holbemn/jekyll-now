@@ -114,6 +114,8 @@ a {
   }
 }
 
+
+
 ul, ol {
   margin: 1em 0;
   padding-left: 30px;
@@ -298,6 +300,10 @@ nav {
     padding-bottom: 0;
     flex-direction: row;
     flex-wrap:wrap;
+
+    a {
+      text-decoration: none;
+    }
     h1 {
       margin-right: .5rem;
     }
@@ -339,7 +345,10 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
-  }
+    }
+  a {
+    text-decoration:none;
+    }
 
   .comments {
     margin-top: 10px;

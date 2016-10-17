@@ -325,6 +325,9 @@ nav a {
   flex-direction: row;
   flex-wrap: wrap;
 }
+.stacks .post a {
+  text-decoration: none;
+}
 .stacks .post h1 {
   margin-right: .5rem;
 }
@@ -359,6 +362,9 @@ nav a {
   color: #666;
   font-size: 22px;
   font-style: italic;
+}
+.post a {
+  text-decoration: none;
 }
 .post .comments {
   margin-top: 10px;
