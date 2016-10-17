@@ -6,7 +6,7 @@ permalink: /resources/
 
 You wouldn’t hire a carpenter to build your house if she didn’t have the right tools for the job, and likewise, you wouldn’t hire any Joe off the street simply because he had a hammer and saw. You, of course, want someone who understands your vision for your home, and has the requisite skills to make that house a reality. Therapy is much the same in this way. It can be challenging to find a therapist with the right tools to walk beside you through tough times.
 
-In an effort to alleviate some of the pain of this process, I’ll be curating a collection of resources here that I hope will answer some commonly asked questions about therapy and aid in finding the right therapist for you. Additionally, I’ll include any counseling materials that I find particularly interesting, to be consumed by practitioners who like reading that sort of thing, and clients who want to know what sorts of things we read.
+In an effort to alleviate some of the pain of this process, I’ll be curating a collection of resources here that I hope will answer some commonly asked questions about therapy and aid in finding the right therapist for you. Additionally, I’ll include any counseling materials that I find particularly interesting to be consumed by practitioners who like reading that sort of thing, and others who just want to know what sorts of things we read.
 
 <h2>How do I find a great therapist?</h2>
 <ul>
