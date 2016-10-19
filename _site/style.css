@@ -270,6 +270,10 @@ ul.share-buttons .sr-only {
   line-height: normal;
 }
 
+div.entry a {
+  text-decoration: underline;
+}
+
 .site-name {
   color: #333;
   cursor: pointer;
@@ -356,11 +360,11 @@ nav a {
 }
 
 .post blockquote {
-  margin: 1.8em .8em;
-  border-left: 2px solid #666;
+  margin: 1em .8em;
+  border-left: 1px solid #666;
   padding: 0.1em 1em;
   color: #666;
-  font-size: 22px;
+  font-size: 1em;
   font-style: italic;
 }
 .post a {

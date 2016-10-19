@@ -238,6 +238,12 @@ ul.share-buttons .sr-only {
   }
 }
 
+div.entry {
+  a {
+    text-decoration:underline;
+  }
+}
+
 .site-name {
   color: $darkGray;
   cursor: pointer;
@@ -339,11 +345,11 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    margin: 1em .8em;
+    border-left: 1px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 1em;
     font-style: italic;
     }
   a {
