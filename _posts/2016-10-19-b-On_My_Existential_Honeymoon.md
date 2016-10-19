@@ -25,7 +25,7 @@ Frankl experienced first-hand the sort of differences that remained evident in m
 
 Processing these truths, I basked in surreality and hid from the tropical sun as we spent our vacation eating and lounging. Every biological need met. In the complete absence of any psychological stressors.
 
-<i>How can I wrap my mind around the scale of human suffering and magnitude of Frankl’s resulting wisdom when I only suffer from an inevitable mild sunburn?</i>
+<i>How can I wrap my mind around this scale of human suffering and magnitude of Frankl’s resulting wisdom when I only suffer from an inevitable mild sunburn?</i>
 
 <i>How do I make sense of these truths of human spirituality and the search for meaning at the core of our being when the only decision I need to make is what sort of food I want for dinner?</i>
 
