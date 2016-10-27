@@ -1,18 +1,18 @@
 ---
 layout: post
 title: On Spirit & Scale
-excerpt: <p>". . . God is bigger, more expansive, more powerful than any of us have the capacity to conceptualize. And I believe that this has to be the case, not for the observable reasons I can point to, but instead because of the times when I can’t point to a single one."</p>
+excerpt: <p>". . . God is bigger, more expansive, more powerful than any of us have the capacity to conceptualize. And I believe that this has to be the case, not for the observable reasons or miracles I can point to, but instead because of the times when I can’t point to a single one."</p>
 ---
 
 A girl we grew up with is in her final days of life. She is 21 and for the past two or three years has been battling a wicked form of cancer that has puzzled oncologists near and far. She is one of the most pure people that anyone has ever met, always with a kind word for others, and a generosity of spirit that you come across only a few times in life.
 
-It's a tough time for anyone who knew her. This isn't the way things are supposed to happen. But right now, the question I ask right now isn’t “why.” As a matter of fact, and this is odd for a therapist to admit, I’m not finding questions to ask at all right now.
+It's a tough time for anyone who knows her. This isn't the way things are supposed to happen. But right now, the question I ask right now isn’t “why.” As a matter of fact, and this is odd for a therapist to admit, I’m not finding questions to ask at all right now.
 
 I think the reason for my lack of questions goes something like this:
 
-I believe that there are powers and forces that exist beyond our ability to comprehend. I believe that God is bigger, more expansive, more powerful than any of us have the capacity to conceptualize. And I believe that this has to be the case, not for the observable reasons I can point to, but instead because of the times when I can’t point to a single one.
+I believe that there are powers and forces that exist beyond our ability to comprehend. I believe that God is bigger, more expansive, more powerful than any of us have the capacity to conceptualize. And I believe that this has to be the case, not for the observable reasons or miracles I can point to, but instead because of the times when I can’t point to a single one.
 
-Allow me to walk you through my logic. Or perhaps my lack thereof.
+Allow me to walk you through my logic, or perhaps my lack thereof.
 
 We’ll begin with the exposition of applicable laws and assumptions.
 
