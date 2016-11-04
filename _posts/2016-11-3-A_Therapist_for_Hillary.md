@@ -39,7 +39,7 @@ But, if one were inclined to argue with a genius like Trump, and one were intere
 
 H.R.C. and her campaign put together a plan that not only names the real challenges faced by families struggling with mental health issues, but that also includes policy proposals that could be implemented immediately.
 
-It addresses: the need for early diagnosis of mental disorders, the growing rate of suicide in America, Mental Health in the prison system, addiction, access to care and integration of Mental Health and traditional medical care, and much more.
+It addresses: the need for early diagnosis of mental disorders, the growing rate of suicide in America, Mental Health and the prison system, addiction, access to care and integration of Mental Health and traditional medical care, and much more.
 
 Even with just a quick scan, it’s clear that there’s no passing the buck in Hillary’s platform. No dancing around the issues or vague, meaningless, statements. She’s an experienced and perceptive leader, an American, and a human being who understands the immediacy with which our country needs to elevate issues in mental health to the forefront of our policy discussion about healthcare.
 
