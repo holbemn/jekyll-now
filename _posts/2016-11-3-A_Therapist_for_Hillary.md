@@ -1,14 +1,14 @@
 ---
 layout: post
 title: A Therapist for Hillary
-excerpt: <p>"In evaluating the two presidential candidates from a therapist’s perspective, the choice is clear. Hillary Clinton must be our next president."</p>
+excerpt: <p>"In evaluating the two major presidential candidates from a therapist’s perspective, the choice is clear. Hillary Clinton must be our next president."</p>
 ---
 
 When I decided to write this blog, my goal was to focus my writing on subjects tied to mental health and my experiences in therapy. Key to my success would be to avoid writing about politics, but there are only 5 days until the election, people.
 
 Consider this a momentary relapse.
 
-In evaluating the two presidential candidates from a therapist’s perspective, the choice is clear. Hillary Clinton must be our next president. If you examine the two major candidates using the core ethical values of our field as your guide, veracity, equality, beneficence, non-maleficence, it’s entirely clear that Donald Trump is about as far as one can be from demonstrating those principles.
+In evaluating the two major presidential candidates from a therapist’s perspective, the choice is clear. Hillary Clinton must be our next president. If you examine the two major candidates using the core ethical values of our field as a guide, veracity, equality, beneficence, non-maleficence, it’s entirely clear that Donald Trump is about as far as one can be from demonstrating those principles.
 
 The mere mention of a Trump presidency in one of my classes elicits visible shudders from professors and students alike. As therapists, it’s astounding to witness a nominee for president whose moral character runs so counter to our standards of being a decent person.
 
