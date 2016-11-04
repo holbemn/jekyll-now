@@ -8,7 +8,7 @@ When I decided to write this blog, my goal was to focus my writing on subjects t
 
 Consider this a momentary relapse.
 
-In evaluating the two major presidential candidates from a therapist’s perspective, the choice is clear. Hillary Clinton must be our next president. If you examine the two major candidates using the core ethical values of our field as a guide, veracity, equality, beneficence, non-maleficence, it’s entirely clear that Donald Trump is about as far as one can be from demonstrating those principles.
+In evaluating the two major presidential candidates from a therapist’s perspective, the choice is clear. Hillary Clinton must be our next president. Using the core ethical values of our field as a litmus test, veracity, equality, beneficence, non-maleficence, it’s entirely clear that Donald Trump is about as far as one can be from demonstrating those principles.
 
 The mere mention of a Trump presidency in one of my classes elicits visible shudders from professors and students alike. As therapists, it’s astounding to witness a nominee for president whose moral character runs so counter to our standards of being a decent person.
 
@@ -43,7 +43,7 @@ It addresses: the need for early diagnosis of mental disorders, the growing rate
 
 Even with just a quick scan, it’s clear that there’s no passing the buck in Hillary’s platform. No dancing around the issues or vague, meaningless, statements. She’s an experienced and perceptive leader, an American, and a human being who understands the immediacy with which our country needs to elevate issues in mental health to the forefront of our policy discussion about healthcare.
 
-So if you know anyone who’s struggled with depression, anxiety, suicide, addiction, or any other mental health problem, you can support them while simultaneously rejecting utter ignorance by casting your vote for Hillary.
+So if you know anyone who’s struggled with depression, anxiety, suicide, addiction, or any mental health problem, you can support them while simultaneously rejecting utter ignorance by casting your vote for Hillary.
 
 She gets it, and he doesn’t. I’m with her, and so is my field.
 
