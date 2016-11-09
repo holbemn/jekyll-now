@@ -16,7 +16,7 @@ Perhaps most troubling of all is the culture that our children will be raised in
 
 Waking up this morning, I’m struck with a new sense of urgency. A renewed call to action. We have work to do. We know what America can be. We need to break down the walls that isolate us. We need to work to restore facts and policies as the basis for choosing candidates.
 
-The New Yorker editor-in-chief David Remnick’s words resonate with me this morning:
+<a href="http://www.newyorker.com/news/news-desk/an-american-tragedy-donald-trump?mbid=social_twitter" target="blank"> The New Yorker editor-in-chief David Remnick’s words</a> resonate with me this morning:
 <blockquote>“. . . despair is no answer. To combat authoritarianism, to call out lies, to struggle honorably and fiercely in the name of American ideals—that is what is left to do. That is all there is to do.”</blockquote>
 
 We need to struggle. And we must also be better to one another. How do I be better and combat this rampant othering, as a therapist, as a husband, as an American?
