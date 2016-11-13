@@ -148,7 +148,7 @@ h4 {
 
 p {
   font-family: Georgia, "Times New Roman", serif;
-  margin: 1em 0;
+  margin: .75em 0;
 }
 
 a {
@@ -284,8 +284,15 @@ ul.share-buttons .sr-only {
   line-height: normal;
 }
 
+div.entry {
+  padding-bottom: .5em;
+}
 div.entry a {
   text-decoration: underline;
+}
+
+div.about h1 {
+  margin-bottom: 0;
 }
 
 .site-name {
@@ -351,20 +358,34 @@ nav a {
 }
 .stacks .post .date {
   font-size: .85em;
-  margin-top: -10px;
+  margin-top: 0;
+  margin-left: 0;
 }
 .stacks .posts > .post {
   display: flex;
+  flex-wrap: nowrap;
   padding-bottom: 0;
   border-bottom: none;
+  margin: 1.1em 0;
 }
 .stacks .posts > .post:last-child {
   padding-bottom: 1rem;
   border-bottom: none;
 }
 
+.archive h1 {
+  margin-bottom: 0;
+}
+.archive .post h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.archive p {
+  margin-top: .75rem;
+  margin-bottom: 1.1em;
+}
+
 .posts > .post {
-  padding-bottom: 1em;
   border-bottom: 1px solid #eee;
 }
 
@@ -373,6 +394,11 @@ nav a {
   border-bottom: none;
 }
 
+.post {
+  display: inline-flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
 .post blockquote {
   margin: 1em .8em;
   border-left: 1px solid #666;
@@ -383,6 +409,22 @@ nav a {
 }
 .post a {
   text-decoration: none;
+  margin: 1em .5em 0 0;
+}
+.post .title {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-items: baseline;
+  margin: 0 0;
+}
+.post h1 {
+  margin: 1em .5em 0 0;
+}
+.post .date {
+  margin-left: auto;
+  font-size: .85em;
+  margin-top: .5em;
 }
 .post .comments {
   margin-top: 10px;
@@ -390,6 +432,10 @@ nav a {
 .post .read-more {
   text-transform: uppercase;
   font-size: 15px;
+}
+
+.posttitle {
+  margin-bottom: 1.1rem;
 }
 
 .wrapper-footer {

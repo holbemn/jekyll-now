@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Work to be Done
-excerpt: <p>"And thus, here we are. We have on our (normal sized hands) a president who simply has no idea how to run a country, much less one as complex and obviously divided as America. Things will get worse before they get better."</p>
+excerpt: <p>". . . here we are. We have on our (normal sized hands) a president who simply has no idea how to run a country, much less one as complex and obviously divided as America. Things will get worse before they get better."</p>
 ---
 
 It’s hard to find adequate words to describe my feeling of anxiety this morning in the wake of Donald Trump’s apparent election. A volatile, openly misogynist, racist figure rode to victory on a wave of his own creation. He skillfully manipulated voters with the aid of a fractured news system where fact became secondary to feeling and perception. In this world, resentment of immigrants, longing for the “America of the past,” and unfiltered racism were allowed to emerge from the shadows of the cornfields.

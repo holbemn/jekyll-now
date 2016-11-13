@@ -102,7 +102,7 @@ h4 {
 
 p {
   font-family: Georgia, "Times New Roman", serif;
-  margin: 1em 0;
+  margin: .75em 0;
 }
 
 a {
@@ -252,8 +252,15 @@ ul.share-buttons .sr-only {
 }
 
 div.entry {
+  padding-bottom: .5em;
   a {
     text-decoration:underline;
+  }
+}
+
+div.about {
+  h1 {
+    margin-bottom: 0;
   }
 }
 
@@ -328,13 +335,16 @@ nav {
     }
     .date {
       font-size: .85em;
-      margin-top: -10px;
+      margin-top: 0;
+      margin-left: 0;
     }
     }
   .posts > .post {
     display:flex;
+    flex-wrap: nowrap;
     padding-bottom: 0;
     border-bottom: none;
+    margin: 1.1em 0;
   }
 
   .posts > .post:last-child {
@@ -344,10 +354,22 @@ nav {
 }
 
 .archive {
+  h1 {
+    margin-bottom: 0;
+  }
+  .post {
+    h1{
+      margin-top: 0;
+      margin-bottom: 0;
+      }
+    }
+  p {
+    margin-top: .75rem;
+    margin-bottom: 1.1em;
+  }
 }
 
 .posts > .post {
-  padding-bottom: 1em;
   border-bottom: 1px solid $lightGray;
 }
 
@@ -357,6 +379,9 @@ nav {
 }
 
 .post {
+  display: inline-flex;
+  flex-wrap:wrap;
+  flex-direction:column;
   blockquote {
     margin: 1em .8em;
     border-left: 1px solid $gray;
@@ -367,6 +392,25 @@ nav {
     }
   a {
     text-decoration:none;
+    margin: 1em .5em 0 0;
+    }
+
+
+    .title {
+      display: flex;
+      flex-wrap: nowrap;
+      flex-direction:row;
+      align-items:baseline;
+      margin: 0 0;
+    }
+
+    h1 {
+      margin: 1em .5em 0 0;
+    }
+    .date {
+      margin-left: auto;
+      font-size: .85em;
+      margin-top: .5em;
     }
 
   .comments {
@@ -377,6 +421,10 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+}
+
+.posttitle {
+  margin-bottom: 1.1rem;
 }
 
 .wrapper-footer {
