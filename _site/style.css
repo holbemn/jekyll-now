@@ -864,4 +864,9 @@ code {
     margin-right: auto;
   }
 }
+@media all and (max-width: 600px) {
+  .stacks .post .date {
+    margin-left: auto;
+  }
+}
 /* Small screens */
