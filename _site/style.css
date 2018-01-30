@@ -79,6 +79,9 @@ body {
 .main a {
   text-decoration: underline;
 }
+.main div.posts p {
+  margin: 1em 0;
+}
 
 .container {
   margin: 0 auto;
@@ -148,7 +151,8 @@ h4 {
 
 p {
   font-family: Georgia, "Times New Roman", serif;
-  margin: .75em 0;
+  margin: 1em 0;
+  word-spacing: .1em;
 }
 
 a {
@@ -289,6 +293,9 @@ div.entry {
 }
 div.entry a {
   text-decoration: underline;
+}
+div.entry p {
+  margin: 1.25em 0;
 }
 
 div.about h1 {

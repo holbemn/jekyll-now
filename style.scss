@@ -32,6 +32,11 @@ body {
   a {
     text-decoration:underline;
   }
+  div.posts{
+    p {
+      margin: 1em 0;
+    }
+  }
 }
 
 .container {
@@ -102,7 +107,8 @@ h4 {
 
 p {
   font-family: Georgia, "Times New Roman", serif;
-  margin: .75em 0;
+  margin: 1em 0;
+  word-spacing: .1em;
 }
 
 a {
@@ -255,6 +261,9 @@ div.entry {
   padding-bottom: .5em;
   a {
     text-decoration:underline;
+  }
+  p {
+    margin: 1.25em 0;
   }
 }
 
