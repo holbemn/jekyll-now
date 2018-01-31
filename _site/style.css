@@ -79,8 +79,12 @@ body {
 .main a {
   text-decoration: underline;
 }
+.main article.post {
+  margin: 0 0 0 0;
+  padding: .25em 0 .25em 0;
+}
 .main div.posts p {
-  margin: 1em 0;
+  margin: .5em 0;
 }
 
 .container {
