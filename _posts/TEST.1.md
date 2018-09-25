@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dispatch No. 1
+title: TEST
 excerpt: <p>TEST</p>
 ---
 
