@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Dispatch No. 1
-excerpt: <p>Smells, Confidence, & Succulents</p>
+excerpt: <p>Smells, Confidence, and Succulents</p>
 ---
 
-I have a break between clients at the moment and I’ve got my window open as far as it can go. I figured out last fall that it’s important to open the top part of my window, rather than the bottom part, so the stacks of papers who live on my desk do not go flying. I’m airing out my office, because when you work with the public in a small 10’x14’ office, you can really accumulate some different smells. 
+I have a break between clients at the moment and I’ve got my window open as far as it can go. I figured out last fall that it’s important to open the top part of my window, rather than the bottom part, so the stacks of papers who live on my desk do not go flying. I’m airing out my office, because when you work with the public in a small 10’x14’ office, you can really accumulate some different smells.
 
 None of my clients at the moment smell unbearable, but I’ve had some in the past who have come close. One session, with a particularly ripe smelling young man, I caught his scent as soon as I entered the waiting room and, being quick on my toes that day, opted to save myself and my future clients by meeting with him in the basement where we have a larger multipurpose meeting room. But my efforts weren't quite enough, and despite the room upgrade, I found myself breathing from my mouth the whole session, and wrapping up ahead of the hour.
 
