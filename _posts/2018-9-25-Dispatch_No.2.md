@@ -4,7 +4,7 @@ title: Dispatch No. 2
 excerpt: <p>Lunch Break, and C.S. Lewis on Undulation</p>
 ---
 
-It’s not a good sign for the week that I’m getting my days mixed up. It’s Tuesday of the week before I go on a week-long vacation, and in my head it’s already Wednesday. I’m a day ahead of myself and the bad signs for the week keep piling up.
+It’s not a good sign for the week that I’m getting my days mixed up. It’s Tuesday of the week before I go on a week-long vacation, and in my head it’s already Wednesday. I’m a day ahead of myself and the omens keep piling up.
 
 I have a half-hour before my next client, but their bus brought them here early. Normally I would be inclined to see them early, as I don’t feel like wasting anyone’s time. Today however, I’m in the middle of my lunch, and with my door slightly cracked, I can hear them out in the hallway making clicking noises and whistling at a low volume to get me to poke my head out of the door. It’s not like they’re even knocking. Even that would be preferable to being signaled at like some sort of caged chimp. I will see them at precisely their appointment time, and until then I will be savoring my salad, writing, and not reinforcing inappropriate behavior.
 
