@@ -19,20 +19,31 @@ Let's kick this off.
 
 If you've read any of my writing, you know that therapy still holds a lot of mystery to me, particularly in regard to how other people practice therapy. Nearly everything we do is behind closed doors, so when I get a peek behind the curtain into someone else's practice, there's a huge validation for all of the frustration and unknowingness that I feel about my own practice.
 
-So when I stumbled upon This New Yorker interview with marriage therapist and podcast host, Esther Perel, I dove in immediately. Esther and this interview is wonderful and filled with wisdom. If you have time, absolutely listen to the clips from her podcast which invites the listener inside real-life couples therapy sessions. My favorite snippet from the interview: "*We have gone up the Maslow ladder of needs, and now we are bringing our need for self-actualization to the marriage. We keep wanting more. We are asking from one person what once an entire village used to provide.*"
+So when I stumbled upon This New Yorker interview with marriage therapist and podcast host, Esther Perel, I dove in immediately. Esther and this interview are wonderful and filled with wisdom. If you have time, absolutely listen to the clips from her podcast which invites the listener inside real-life couples therapy sessions. My favorite snippet from the interview: "*We have gone up the Maslow ladder of needs, and now we are bringing our need for self-actualization to the marriage. We keep wanting more. We are asking from one person what once an entire village used to provide.*"
 
 --
 
 [Mandolin Orange, Live at the WGBH Fraser Performance Studio](https://www.youtube.com/watch?v=EdP8S0uKP5U)
 
-I love Christmas music a great deal, but even I find myself in need of a carol reprieve partway through the holiday season. This intimate and wonderfully engineered performance by Mandolin Orange fits the bill perfectly. I've had it on repeat throughout my documentation hours, and find myself perpetually distracted in the best way by Andrew Marlin and Emily Franz's virtuosity. If you aren't familiar with them already, you won't find a better or more proper introduction to the best Americana duo around.
+I love Christmas music a great deal, but even I find myself in need of a carol reprieve partway through the holiday season. This intimate and wonderfully engineered performance by Mandolin Orange fits the bill perfectly. I've had it on repeat throughout my documentation hours, and find myself perpetually distracted in the best way by Andrew Marlin and Emily Frantz's virtuosity. If you aren't familiar with them already, you won't find a better or more proper introduction to the best Americana duo around.
 
 --
 
 I'll close my first 'Holbemn Recommends' with a poem I came across by Walt Whitman.
 
-  <iframe width='575' height='1100' src='https://www.poets.org/poetsorg/poem/sounds-winter?mbd=1' frameborder='0' scrolling='no' allowfullscreen></iframe>
+<pre>
+<h1>Sounds of the Winter - <em>Walt Whitman</em></h1>
+Sounds of the winter too,
+Sunshine upon the mountains—many a distant strain
+From cheery railroad train—from nearer field, barn, house
+The whispering air—even the mute crops, garner’d apples, corn,
+Children’s and women’s tones—rhythm of many a farmer and of
+      flail,
+And old man’s garrulous lips among the rest, <em>Think not we give</em>
+      <em>out yet,</em>
+<em>Forth from these snowy hairs we keep up yet the lilt.</em>
+</pre>
 
-I find this poem beautiful, of optimal length, and distant to the winter rhythms I experience personally. I hardly find myself surrounded with the sort of outdoors work and quaint sounds which form the basis for Whitman's scene. My own soundscape is formed of clients' diverse voices, gentle keyboard clacking, and the whisper of white-noise machines (damn them.)
+Whitman's poem is beautiful, of optimal length, and distant to the winter rhythms I experience personally. I hardly find myself surrounded with the sort of outdoors work and quaint sounds which form the basis for Whitman's scene. My own soundscape is formed of clients' diverse voices, gentle keyboard clacking, and the whisper of white-noise machines (damn them.)
 
-But despite my more urban, modern setting, the old man's words propel me forward as I go about my work during this Christmas season, "Think not we give out yet, Forth from snowy hairs we keep up the lilt."
+But despite my more urban, modern setting, the old man's words propel me forward still as I go about my work during this Christmas season, <em>"Think not we give out yet, Forth from these snowy hairs we keep up the lilt."</em>
