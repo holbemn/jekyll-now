@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Holbemn Recommends No.1
+title: Holbemn Recommends No. 1
 excerpt: <p>Esther Perel, Mandolin Orange, Sounds of the Winter</p>
 ---
 
@@ -9,7 +9,7 @@ excerpt: <p>Esther Perel, Mandolin Orange, Sounds of the Winter</p>
 
 With this installment of Dispatches on Therapy, I'm adding a new form of post, one that may feel even looser, (they thought it couldn't be done). Though I am a therapist, I still find myself spending a highly unmindful amount of time engaging with my phone and consuming media of all sorts. And while I'm trying to curb that, I figure I might as well turn some of my browsing into something more... intentional.
 
-Hence, Holbemn Recommends! I want to take the time here and there to share a few of my favorite things from art to music to interviews and journalism which speak into and inform my therapy practice, or fuel me more personally and artistically. I hope you (mindfully) enjoy them and find some of the same inspiration that I have.
+Hence, <em>Holbemn Recommends</em>! I want to take the time here and there to share a few of my favorite things from art to music to interviews and journalism which speak into and inform my therapy practice, or fuel me more personally and artistically. I hope you (mindfully) enjoy them and find some of the same inspiration that I have.
 
 Let's kick this off.
 
@@ -23,15 +23,15 @@ So when I stumbled upon This New Yorker interview with marriage therapist and po
 
 --
 
-[Mandolin Orange, Live at the WGBH Fraser Performance Studio](https://www.youtube.com/watch?v=EdP8S0uKP5U)
+[Mandolin Orange - Live at the WGBH Fraser Performance Studio](https://www.youtube.com/watch?v=EdP8S0uKP5U)
 
 I love Christmas music a great deal, but even I find myself in need of a carol reprieve partway through the holiday season. This intimate and wonderfully engineered performance by Mandolin Orange fits the bill perfectly. I've had it on repeat throughout my documentation hours, and find myself perpetually distracted in the best way by Andrew Marlin and Emily Frantz's virtuosity. If you aren't familiar with them already, you won't find a better or more proper introduction to the best Americana duo around.
 
 --
 
-I'll close my first 'Holbemn Recommends' with a poem I came across by Walt Whitman.
+I'll close my first <em>Holbemn Recommends</em> with a poem I came across by Walt Whitman.
 
-<pre>
+<div class="pre"><pre>
 <h1>Sounds of the Winter - <em>Walt Whitman</em></h1>
 Sounds of the winter too,
 Sunshine upon the mountains—many a distant strain
@@ -41,8 +41,8 @@ Children’s and women’s tones—rhythm of many a farmer and of
       flail,
 And old man’s garrulous lips among the rest, <em>Think not we give</em>
       <em>out yet,</em>
-<em>Forth from these snowy hairs we keep up yet the lilt.</em>
-</pre>
+<em>Forth from these snowy hairs we keep up yet the lilt.</em></pre>
+</div>
 
 Whitman's poem is beautiful, of optimal length, and distant to the winter rhythms I experience personally. I hardly find myself surrounded with the sort of outdoors work and quaint sounds which form the basis for Whitman's scene. My own soundscape is formed of clients' diverse voices, gentle keyboard clacking, and the whisper of white-noise machines (damn them.)
 

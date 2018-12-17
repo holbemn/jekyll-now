@@ -246,10 +246,20 @@ img {
   background: #BEFFBE;
 }
 
-pre {
+div.pre {
   background-color: #efefef;
   margin-left: 10%;
   margin-right: 10%;
+  text-align: left;
+  border: 3%;
+  padding: 3%;
+}
+div.pre h1 {
+  margin-top: 0;
+}
+
+pre {
+  font-size: inherit;
 }
 
 ul.share-buttons {
