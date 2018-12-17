@@ -31,17 +31,19 @@ I love Christmas music a great deal, but even I find myself in need of a carol r
 
 I'll close my first <em>Holbemn Recommends</em> with a poem I came across by Walt Whitman.
 
-<div class="pre"><pre>
+<div class="pre">
 <h1>Sounds of the Winter - <em>Walt Whitman</em></h1>
-Sounds of the winter too,
-Sunshine upon the mountains—many a distant strain
-From cheery railroad train—from nearer field, barn, house
-The whispering air—even the mute crops, garner’d apples, corn,
-Children’s and women’s tones—rhythm of many a farmer and of
+<br>Sounds of the winter too,
+<br>Sunshine upon the mountains—many a distant strain
+
+<br>From cheery railroad train—from nearer field, barn, house
+
+<br>The whispering air—even the mute crops, garner’d apples, corn,
+<br>Children’s and women’s tones—rhythm of many a farmer and of
       flail,
-And old man’s garrulous lips among the rest, <em>Think not we give</em>
+<br>And old man’s garrulous lips among the rest, <em>Think not we give</em>
       <em>out yet,</em>
-<em>Forth from these snowy hairs we keep up yet the lilt.</em></pre>
+<br><em>Forth from these snowy hairs we keep up yet the lilt.</em>
 </div>
 
 Whitman's poem is beautiful, of optimal length, and distant to the winter rhythms I experience personally. I hardly find myself surrounded with the sort of outdoors work and quaint sounds which form the basis for Whitman's scene. My own soundscape is formed of clients' diverse voices, gentle keyboard clacking, and the whisper of white-noise machines (damn them.)

@@ -251,7 +251,6 @@ div.pre {
   margin-left: 10%;
   margin-right: 10%;
   text-align: left;
-  border: 3%;
   padding: 3%;
 }
 div.pre h1 {
@@ -891,6 +890,11 @@ code {
     margin-left: auto;
     margin-right: auto;
   }
+
+  div.pre {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
 }
 @media all and (max-width: 600px) {
   .masthead {
@@ -901,5 +905,15 @@ code {
   .stacks .post .date {
     margin-left: auto;
   }
+
+  div.pre {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 /* Small screens */
+@media all and (max-width: 414px) {
+  .pre {
+    margin-left: 0;
+  }
+}
