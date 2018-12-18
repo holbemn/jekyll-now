@@ -48,4 +48,4 @@ I'll close my first <em>Holbemn Recommends</em> with a poem I came across by Wal
 
 Whitman's poem is beautiful, of optimal length, and distant to the winter rhythms I experience personally. I hardly find myself surrounded with the sort of outdoors work and quaint sounds which form the basis for Whitman's scene. My own soundscape is formed of clients' diverse voices, gentle keyboard clacking, and the whisper of white-noise machines (damn them.)
 
-But despite my more urban, modern setting, the old man's words propel me forward still as I go about my work during this Christmas season, <em>"Think not we give out yet, Forth from these snowy hairs we keep up the lilt."</em>
+But despite my more urban, modern setting, the old man's words propel me forward still as I go about my work during this Christmas season, <em>"Think not we give out yet, Forth from these snowy hairs we keep up yet the lilt."</em>
